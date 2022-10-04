@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hemant Kothari</h1>
-<h3 align="center">I'm extremely passionate about learning & developing new things rocket user-focused UIs heart_eyes WordPress applications computer by considering the best & latest technology.</h3>
+<h3 align="center">I'm extremely passionate about learning & developing new things 🚀 user-focused UIs 😍 WordPress applications by considering the best & latest technology.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemant7405&label=Profile%20views&color=0e75b6&style=flat" alt="hemant7405" /> </p>
