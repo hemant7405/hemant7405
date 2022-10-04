@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemant7405&label=Profile%20views&color=0e75b6&style=flat" alt="hemant7405" /> </p>
 
-- 🔭 I’m currently working on **HTML, CSS, JavaScript, jQuery, React-JS**
+- 🔭 I’m currently working on **PHP, JavaScript, jQuery, ES6, HTML, CSS, React-JS.**
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **Redux, Advanced ReactJS Concept.**
 
-- 💬 Ask me about **TML, CSS, JS, WordPress Development**
+- 💬 Ask me about **WordPress Product Development, API Development, HTML, CSS, JS.**
 
 - 📫 How to reach me **hdkothari81@gmail.com**
 <hr>
